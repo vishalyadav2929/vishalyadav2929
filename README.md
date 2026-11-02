@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Vishal Yadav
 
-<!--
-**vishalyadav2929/vishalyadav2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & creator from Jaipur, India. I build content brands and products:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Wedding Reels India** — India's same-day wedding content creators. Wedding reels, BTS & real-time stories, delivered the same day.
+  Website: https://vishalyadav2929.github.io/WEDDING-REELS-INDIA/ · Instagram: https://www.instagram.com/weddingreelsindia.co
+- **FindRightCollege** — honest college reviews & admission guidance.
+  Website: https://findrightcollege.com · Instagram: https://www.instagram.com/findrightcollege
+- **BrandBaazi** — brand & social-media growth studio.
+  Website: https://brandbaazi.in
+- **ViralEditingZone** — free in-browser caption editor for creators.
+  https://viralcaptionwala.netlify.app/app.html
